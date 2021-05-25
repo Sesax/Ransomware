@@ -1,8 +1,6 @@
 # Ransomware
 Ransomware Bash
 
-Pierre LABADIE, Zaccaria MALDRIE, Marc-Antoine TAISANT
-
 Ce ransomware à été codé en bash, il peut être executé hors connection.
 
 FONCTIONNEMENT
