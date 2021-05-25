@@ -18,4 +18,4 @@ On pourrait mettre un ligne un site sur lequel la victime serait redirigée, sur
 
 Le ransomware ne comprend pas de backdoor pour le moment, on pourrait envisager d'en ajouter une.
 
-Pour un ransomware efficasse, il serait aussi nécessaire d'ajouter des fonctions de propagation dans le système et de le rendre difficilement détéctable par les anti-virus.
+Pour un ransomware efficace, il serait aussi nécessaire d'ajouter des fonctions de propagation dans le système et de le rendre difficilement détéctable par les anti-virus.
